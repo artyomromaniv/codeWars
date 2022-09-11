@@ -1,0 +1,1 @@
+const removeUrlAnchor = url => url.split('#', 1)[0]
